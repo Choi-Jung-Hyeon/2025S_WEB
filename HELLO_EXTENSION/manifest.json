@@ -1,0 +1,9 @@
+{
+    "name": "Hello extension",
+    "description": "나의 첫 확장 프로그램",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "index.html"
+    }
+}
