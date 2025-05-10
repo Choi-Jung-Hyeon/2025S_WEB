@@ -1,0 +1,9 @@
+{
+  "name": "Business_English_iCampus",
+  "description": "중간고사 도우미",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+      "default_popup": "index.html"
+  }
+}
